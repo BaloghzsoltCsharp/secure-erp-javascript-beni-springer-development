@@ -1,0 +1,22 @@
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#message {
+  color: teal;
+}
+
+#error-message {
+  color: red;
+}
+
+#menu li {
+  margin-bottom: 0.5em;
+}
+
+.is-hidden { 
+  display: none; 
+} 
